@@ -1,12 +1,16 @@
-# React + Vite
+# Shopping Cart
 
-Title: Shopping Cart
+## Description: 
 
-Description: This is a shopping cart, wherein the user can add and remove products in the shopping cart, determine the quantity of each product in the shopping cart, and proceed to the checkout page so that the user can potentially buy the items in the shopping cart.
+This is a shopping cart, wherein the user can add and remove products in the shopping cart, determine the quantity of each product in the shopping cart, and proceed to the checkout page so that the user can potentially buy the items in the shopping cart.
 
-To run the Shopping Cart React Vite Project, simply navigate to the project directory and run the command "npm run dev"
+## Instructions
 
-libraries used:
+1. run npm install
+2. run npm run dev
+3. navigate to localhost:5173
+
+## libraries used:
 react router dom
 fortawesome
 react dom
